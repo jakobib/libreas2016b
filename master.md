@@ -1,7 +1,3 @@
----
-title: Versuch einer Bibliographie von Bibliographien von Bibliographien von Bibliographien.
-...
-
 # Einführung
 
 Die Natur von *Bibliographien der Bibliographien*, also Bibliographien die
@@ -151,7 +147,7 @@ Metabibliographien eines bestimmten Fachgebietes.
 
 Die angemessene Form der Erfassung von Literatur ist eigentlich eine Datenbank.
 Die Einträge dieser Bibliographie liegen zumindest im BibTeX-Format vor.^[unter
-<https://github.com/jakobib/libreas2016b/blob/master/metabibliografie.bib>] Da
+<https://github.com/jakobib/libreas2016b/blob/master/bibliography.bib>] Da
 dieses Format keine Normdaten unterstützt, hier die Identfier der Werke und
 beteiligten Personen (sofern vorhanden):
 
@@ -216,5 +212,5 @@ Sammeln und Beschreibens anderer Sammlungen und Beschreibungen selbst zu
 betrachten.^[Ein Ansatz für den Bereich von (Meta-)Daten liegt vor
 [@Voss2013].]
 
-# Literatur
+# Literaturverzeichnis
 

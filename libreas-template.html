@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html$if(lang)$ lang="$lang$"$endif$>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+$for(author-meta)$
+  <meta name="author" content="$author-meta$">
+$endfor$
+$if(date-meta)$
+  <meta name="dcterms.date" content="$date-meta$">
+$endif$
+  <title>$title$ - $journal$</title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+$if(quotes)$
+  <style type="text/css">q { quotes: "“" "”" "‘" "’"; }</style>
+$endif$
+$if(highlighting-css)$
+  <style type="text/css">
+$highlighting-css$
+  </style>
+$endif$
+  <link rel="stylesheet" href="libreas-style.css">
+$if(math)$
+  $math$
+$endif$
+$for(header-includes)$
+  $header-includes$
+$endfor$
+</head>
+<body class="theme-base-wes">
+
+<!-- LIBREAS sidebar omitted... -->
+
+<div class="container content">
+
+<!-- LIBREAS GitHub et al icons omitted... -->
+
+<article class="page">
+<div align="right">
+    <strong> &gt; &gt; &gt; <a href="">$journal$ # $issue$</a></strong> <br><br>
+</div>
+
+<!-- LIBREAS URN omitted ... -->
+
+<h1 itemprop="name" class="title">$title$</h1>
+<!-- TODO: subtitle? -->
+
+<div class="titelei">
+  $for(contributor)$
+    <i itemprop="author">$contributor$</i>
+    $sep$ <i>&amp;</i> 
+  $endfor$
+</div>
+
+<!-- TODO: use abstract.md -->
+$if(abstract)$
+  <p><small itemprop="description">$abstract$</small></p>
+$endif$
+
+  <hr>
+
+<div class="entry-content" itemprop="articleBody">
+<div id="TOC">$toc$</div>
+
+$body$
+
+</div>
+</article>
+
+</body>
+</html>
