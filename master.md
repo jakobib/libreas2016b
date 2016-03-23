@@ -1,8 +1,8 @@
-# Einführung
+# Einleitung
 
 Die Natur von *Bibliographien der Bibliographien*, also Bibliographien die
-ihrerseits bibliographische Verzeichnisse auflisten, wird in Standardwerken zur
-Bibliographiekunde zumindest erklärt. Werden mehrere solcher
+ihrerseits bibliographische Verzeichnisse auflisten, wird in den meisten
+Standardwerken zur Bibliographiekunde erklärt. Werden mehrere solcher
 *Metabibliographien* oder *Bibliographien zweiter Ordnung*  in einem
 Verzeichnis zusammengefasst, so lässt sich dieses Verzeichnis als
 *Bibliographie von Metabibliographien*, *Meta-Metabibliographie*,
@@ -22,7 +22,7 @@ Februar 2007) lediglich als Idee erwähnt [@Lexoldie2007]:
 > Metabibliografien durchaus sinnvoll wäre.
 
 Der Konjunktiv deutet an, dass die Existenz von Meta-Metabibliographien
-unsicher ist. Es gibt sie allerdings. So führt eine Google-Suche nach
+unsicher ist. Es gibt sie allerdings! So führt eine Google-Suche nach
 "bibliography of bibliographies of bibliographies" unter anderem zu folgendem
 Ergebnis [@Nature1939]: 
 
@@ -30,15 +30,15 @@ Ergebnis [@Nature1939]:
 > justified the publication of Mr. Josephson’s bibliography of bibliographies 
 > of bibliographies.
  
-Verwiesen wird hier auf das zunächst 1901 und in erweiterter
-Auflage zwischen 1910 und 1913 herausgegebene Bibliographie von Aksel
-Josephson. Neben der Abhandlung von @Taylor1955, der auf
-@Josephson1901 als "first separate publication of such a list" verweist, ist
-dies auch schon die einzige ausschließliche Meta-Metabibliographie die in Form
-eines selbständigen Werkes herausgegeben wurde. Taylor merkt zudem an
-[@Taylor1955, S. 129], dass die Idee von Josephson nicht neu sei und sich
-vergleichbare Listen in anderen Nachschlagewerken finden, z.B.  in den
-Bibliographien von Bibliographien von @Peignot1812 und @Petzholdt1866.
+Verwiesen wird hier auf die zunächst 1901 und in erweiterter Auflage zwischen
+1910 und 1913 herausgegebene Bibliographie von Aksel Josephson. Neben der
+Abhandlung von @Taylor1955, der auf @Josephson1901 als "first separate
+publication of such a list" verweist, ist dies auch schon die einzige
+ausschließliche Meta-Metabibliographie, die in Form eines selbständigen Werkes
+herausgegeben wurde. Taylor [-@Taylor1955, S. 129] merkt zudem an, dass die
+Idee von Josephson nicht neu sei und dass sich vergleichbare Listen in anderen
+Nachschlagewerken finden, z.B.  in den Bibliographien von Bibliographien von
+@Peignot1812 und @Petzholdt1866.
 
 Abgesehen von Taylor selbst, sowie den von ihm angeführten Quellen, blieb
 jedoch die Suche nach weiteren umfassenden Bibliographien dritter Ordnung
@@ -53,8 +53,8 @@ zusammengestellt Beispiele, so dass diese Liste, zumindest momentan, nicht als
 weitere Meta-Metabibliographie in Frage kommt.
 
 Ist schon die Literatur zu Metabibliographien dürftig, so wird auf
-Meta-Metabibliographien lediglich vereinzelt hingewiesen. @Hjorland2008 merkt
-dazu treffend an, dass ihr praktischer Wert für die Recherche beschränkt ist:
+Meta-Metabibliographien nur noch vereinzelt hingewiesen. @Hjorland2008 merkt
+treffend an, dass ihr praktischer Wert für die Recherche beschränkt ist:
 
 > Metabibliographies may again be found in meta-meta bibliographies, and so on.
 > In most real life situations is this a highly problematic way to seek
@@ -76,7 +76,7 @@ Literaturdatenbanken "virtuelle Bibliographien" erstellen. So sollte
 beispielsweise die Menge aller mit der DDC-Notation 016.016[^016.016]
 erschlossenen Titel eine Liste von Meta-Bibliographien ergeben.
 Erschließungsqualität und Recherchemöglichkeit der meisten Kataloge lassen
-allerdings so stark zu wünschen übrigen, so dass auch dieses Verfahren keine
+allerdings so stark zu wünschen übrigen, dass auch dieses Verfahren keine
 weitere Meta-Metabibliographien ergibt.
 
 [^016.016]: Synthetische Notation aus der Grundnotation 016 (Bibliografien und
@@ -87,7 +87,7 @@ Kataloge, Indizes) aus Anhängetafel 1.
 
 ## Universalbibliographien
 
-Umfassen Bibliographien möglichst aller Metabibliographien.
+Umfassen Bibliographien möglichst aller Metabibliographien:
 
 * @Josephson1901, gedruckt in 500 Exemplaren,^[Online digitalisiert verfügbar
   unter <https://archive.org/details/bibliographiesof00joserich>] enthält 156
@@ -120,7 +120,7 @@ Umfassen Bibliographien möglichst aller Metabibliographien.
 ## Auswahlbibliographien
 
 Umfassen Empfehlungslisten von Metabibliographien sowie Bibliographien von
-Metabibliographien eines bestimmten Fachgebietes.
+Metabibliographien eines bestimmten Fachgebietes:
 
 * @Roesch2003 behandeln "Bibliographien der Bibliographien" im Rahmen einer
   Lehrveranstaltung zu allgemeinen Informationsmitteln. Die Sammlung enthält
@@ -129,7 +129,7 @@ Metabibliographien eines bestimmten Fachgebietes.
 
 * @Gorraiz2007 führt in seiner "Bibliographie der Bibliographien" zwei
   Lehrbücher, acht retrospektive Verzeichnisse und fünf laufende Verzeichnisse
-  auf zwischen 1945 und 2003 auf. Zur Einführung verweist er auf @Taylor1955.
+  auf zwischen 1945 und 2003 an. Zur Einführung verweist er auf @Taylor1955.
   Die Bibliographie ist Teil eines Leitfaden zur Bibliographiekunde.
 
 * Die von @Keenan2015 herausgegebene Liste von "Bibliographies of
@@ -146,9 +146,9 @@ Metabibliographien eines bestimmten Fachgebietes.
 ## Daten der Bibliographie
 
 Die angemessene Form der Erfassung von Literatur ist eigentlich eine Datenbank.
-Die Einträge dieser Bibliographie liegen zumindest im BibTeX-Format vor.^[unter
+Die Einträge dieser Bibliographie liegen zumindest im BibTeX-Format vor.^[Unter
 <https://github.com/jakobib/libreas2016b/blob/master/bibliography.bib>] Da
-dieses Format keine Normdaten unterstützt, hier die Identfier der Werke und
+dieses Format keine Normdaten unterstützt, hier die Identifier der Werke und
 beteiligten Personen (sofern vorhanden):
 
 ### Werke
@@ -181,36 +181,36 @@ handelt, bildet diese Übersicht von Meta-Metabibliographien quasi ein
 Bezeichnung wäre allerdings ebenso verwirrend wie albern.]
 
 Das Ergebnis ist überschaubar und vermutlich nicht vollständig: insgesamt
-konnten lediglich vier allgemeine, selbständige  Bibliographien von
-Metabibliographien ausfindig gemacht werden, bei Zusammenfassung verschiedener
-Auflagen sogar nur drei. Darüber hinaus sind vier Auswahlbibliographien
-aufgeführt, die nicht auf Vollständigkeit angelegt sind und/oder sich auf ein
-bestimmtes Fachgebiet beschränken.  Es zu vermuten dass im Rahmen von
-allgemeineren Bibliographien, Nachschlagewerken und Recherchehilfen weitere,
-derart begrenzte Meta-Metabibliographien existieren.  In Ermangelung ähnlicher
-Unterfangen kann die vorliegende Übersicht trotzdem als bislang umfangreichstes
-Verzeichnis von Meta-Meta-Bibliographien angesehen werden.  Sollten weitere
-solche Bibliographien existieren oder erstellt werden, so ist mit einer
-Meta-Meta-Meta-Bibliographie zu rechnen. 
+konnten lediglich vier allgemeine Bibliographien von Metabibliographien
+ausfindig gemacht werden, bei Zusammenfassung verschiedener Auflagen sogar nur
+drei. Darüber hinaus sind vier Auswahlbibliographien aufgeführt, die nicht auf
+Vollständigkeit angelegt sind und/oder sich auf ein bestimmtes Fachgebiet
+beschränken.  Es zu vermuten dass im Rahmen von allgemeineren Bibliographien,
+Nachschlagewerken und Recherchehilfen weitere, derart begrenzte
+Meta-Metabibliographien (oder zumindest einfache Literaturlisten) existieren. 
 
-Forschungsbedarf besteht vor allem zur Entwicklung von Metabibliographien nach
-1955, was mit der Einführung von bibliographischen Datenbanken
-zusammenfällt.^[Die erste Untersuchung zum Einsatz von elektronischen
-Literaturdatenbanken stammt von Philipp Bagley [-@Bagley1951], der übrigens
-später ebenfalls den Begriff "Metadaten" prägte.] Durch einfache Suche konnten
-weder *Datenbanken von Datenbanken von Datenbanken* noch *Kataloge von
-Katalogen von Katalogen* gefunden werden (ihre Existenz ist also nicht
-ausgeschlossen, aber zumindest zweifelhaft); es gibt allerdings eine Reihe von
-*Listen von Listen von Listen* sowie Listen höherer Ordnung.^[Beispielsweise
-die *List of lists of lists* in der Englischsprachigen Wikipedia
-(<https://en.wikipedia.org/wiki/List_of_lists_of_lists>) und die irgendwann
-zwischen 2008 und 2011 von Scott Sisikind zusammengestellte "List of Lists of
-Lists of Lists" (<http://www.raikoth.net/lololol.html>).] Ob die Betrachtung
-solch allgemeiner Meta-Sammlungen zur Erstellung von Sammlungen höherer Ordnung
-zielführend ist, darf bezweifelt werden. Vielmehr macht es Sinn, den Akt des
-Sammeln und Beschreibens anderer Sammlungen und Beschreibungen selbst zu
-betrachten.^[Ein Ansatz für den Bereich von (Meta-)Daten liegt vor
-[@Voss2013].]
+Trotz dieser Schwächen kann, in Ermangelung ähnlicher Unterfangen, die
+vorliegende Übersicht als bislang umfangreichstes Verzeichnis von
+Meta-Meta-Bibliographien angesehen werden.  Sollten weitere solche
+Bibliographien existieren oder erstellt werden, so ist mit einer
+Meta-Meta-Meta-Bibliographie zu rechnen.  Forschungsbedarf besteht vor allem
+zur Entwicklung von Metabibliographien seit 1955, was mit der Einführung von
+bibliographischen Datenbanken zusammenfällt.^[Die erste Untersuchung zum
+Einsatz von elektronischen Literaturdatenbanken stammt von Philipp Bagley
+[-@Bagley1951], der übrigens später ebenfalls den Begriff "Metadaten" prägte.]
+Durch einfache Suche konnten weder *Datenbanken von Datenbanken von
+Datenbanken* noch *Kataloge von Katalogen von Katalogen* gefunden werden (ihre
+Existenz ist also nicht ausgeschlossen, aber zumindest zweifelhaft); es gibt
+allerdings eine Reihe von *Listen von Listen von Listen* sowie Listen höherer
+Ordnung.^[Beispielsweise die *List of lists of lists* in der Englischsprachigen
+Wikipedia (<https://en.wikipedia.org/wiki/List_of_lists_of_lists>) und die
+irgendwann zwischen 2008 und 2011 von Scott Sisikind zusammengestellte "List of
+Lists of Lists of Lists" (<http://www.raikoth.net/lololol.html>).] Ob die
+Betrachtung solch allgemeiner Meta-Sammlungen zur Erstellung von Sammlungen
+höherer Ordnung zielführend ist, darf bezweifelt werden. Vielmehr macht es
+Sinn, für weitergehende Untersuchungen den Akt des Sammeln und Beschreibens
+anderer Sammlungen und Beschreibungen selbst zu betrachten.^[Ein Ansatz für den
+Bereich von (Meta-)Daten liegt vor [@Voss2013].]
 
 # Literaturverzeichnis
 
